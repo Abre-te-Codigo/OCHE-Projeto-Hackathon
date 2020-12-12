@@ -6,5 +6,5 @@ Projeto que oferece trilhas temáticas artísticas de obras pelas cidades com ge
 - [https://github.com/elainecruz/OcheApp/tree/main](https://github.com/elainecruz/OcheApp/tree/main)
 
 ## Vídeos 
-- [https://youtu.be/xzN1OhRxDu0](https://youtu.be/xzN1OhRxDu0)
-- [https://youtu.be/cGZ6F2yunxQ](https://youtu.be/cGZ6F2yunxQ)
+- Pitch [https://youtu.be/xzN1OhRxDu0](https://youtu.be/xzN1OhRxDu0)
+- Demo [https://youtu.be/cGZ6F2yunxQ](https://youtu.be/cGZ6F2yunxQ)
