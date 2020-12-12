@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+*{font-family: 'Quicksand', sans-serif; font-size: x-large;}
+
+
+
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 900px;
+}
+
+.section-left{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.logo-img{
+    width: 40%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.circles-img{
+    display: flex;
+    width: 30%;
+    height: 40%;
+}
+
+.section-center{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.art-work-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.art-work-img{
+    /* width: 40%;
+    height: 70%;
+    margin-top: 50px ; */
+}
+
+.pink-line-img{
+    display: flex;
+    width: 2%;
+    height: 25%;
+    margin-right: 12px;
+    justify-self: center;
+}
+
+.text-info-gerais{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.art-description-item{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
+.art-description{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 100%;
+    margin-top: 100px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.text-info-museu{
+    display: flex;
+    flex-direction: center;
+    size: 9;
+    justify-content: center;
+    align-self: center;
+}
+
+.text-oche-mobile{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.section-right{
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.circles-img2{
+    width:80%;
+    height: 40%;
+}
+
+.logo-appstore-img{
+    width: 5%; 
+    height: 85%;
+}
+
+.more-description{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    left: -30px;
+
+}
+
+.text-oche-mobile{
+    font-size: large;
+}
